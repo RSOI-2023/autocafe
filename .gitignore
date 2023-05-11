@@ -39,6 +39,5 @@ replay_pid*
 # Mac
 .DS_Store
 
-#H2
-data.mv.db
-data.trace.db
+# Zonky
+postgres
